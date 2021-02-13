@@ -1,4 +1,4 @@
 Hello World!
 This file was edited on the local machine.
 
-There has been a new update!
+My name is Gerrit Hall and I am an instructor for UW FinTech Spring 21
